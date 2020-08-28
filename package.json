@@ -5,7 +5,7 @@
 	"scripts": {
 		"serve": "vue-cli-service serve",
 		"build": "vue-cli-service build",
-		"test": "mocha"
+		"test": "mocha './src/main.js'"
 	},
 	"dependencies": {
 		"axios": "^0.20.0",

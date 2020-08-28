@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# study-videos
-=======
 # study-videos
 
 ## Project setup
